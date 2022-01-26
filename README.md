@@ -1,2 +1,2 @@
-# weavpress-wp-core
+# weavepress-wp-core
 WeavePress' core WordPress plugin
